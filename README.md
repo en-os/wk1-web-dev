@@ -1,2 +1,2 @@
-# wk1-submission
+# wk1-web-dev
 HTML5 + Accessibility & SEO Basics
